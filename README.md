@@ -8,7 +8,7 @@
 格式:UTF-8
 文件名:encode_code.js
 
-2.将encode_code.js 与本仓库的 obfuscator_decode.js 文件放在同一个文件
+2.将encode_code.js 与本仓库的 obfuscator_decode.js 文件放在同一个目录下
 
 3.运行 obfuscator_decode.js 文件，命令：node obfuscator_decode.js
 
