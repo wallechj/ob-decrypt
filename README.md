@@ -1,7 +1,9 @@
 # ob-decrypt
+
 通过操作AST，还原被obfuscator工具混淆了的JavaScript代码
 
-#使用方法
+# 使用方法
+
 1.网上复制经过obfuscator工具混淆了的JavaScript代码，保存为js文件
 格式:UTF-8
 文件名:encode_code.js
